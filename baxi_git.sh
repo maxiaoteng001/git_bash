@@ -2,7 +2,7 @@
 
 # 同步自身和定时任务
 cd ~/git_bash
-git pull gitlab master
+git pull github master
 
 cp baxi_git.sh ~/
 chmod +x baxi_git.sh
